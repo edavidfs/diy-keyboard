@@ -1,2 +1,3 @@
-# diy-keyboard
-Kicad library for design DIY-Keyboard
+# diy-keyboards
+Kicad library for design DIY-Keyboards
+
